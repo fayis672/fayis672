@@ -1,4 +1,4 @@
-Hi 👋 My name is Fayis Muhammed T K
+Hi 👋 I'm Fayis Muhammed T K
 ===================================
 
 Developer
