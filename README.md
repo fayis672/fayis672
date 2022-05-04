@@ -10,7 +10,8 @@ I've been learning code for 6 years, tried various languages and frameworks, cur
 *   ✉️  You can contact me at [fayistkm36@gmail.com](mailto:fayistkm36@gmail.com)
 *   🚀  I'm currently working on [Flutter](http://sjdn)
 *   🧠  I'm learning Python, Machine Learning, Deep Learing
-### Skills<p align="left">
+### Skills
+<p align="left">
    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
                                 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
                                 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
