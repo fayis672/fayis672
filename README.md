@@ -4,7 +4,7 @@ Hi 👋 I'm Fayis Muhammed T K
 Developer
 ---------
 
-I've been learning code for 6 years, tried various languages and frameworks, currently focusing on mobile app development.
+I am an accomplished coder and programmer, and I enjoy using my skills to contribute to the exciting technological advances. I've been learning code for six years, tried various languages and frameworks, currently focusing on mobile app development.
 
 *   🌍  I'm based in India - Kerala
 *   ✉️  You can contact me at [fayistkm36@gmail.com](mailto:fayistkm36@gmail.com)
