@@ -28,6 +28,8 @@ I am an accomplished coder and programmer, and I enjoy using my skills to contri
 
 ### Badges
 
+[![GitScore](https://www.gitscore.live/api/badge/fayis672)](https://www.gitscore.live/fayis672)
+
 <b>My GitHub Stats</b>
 
 
