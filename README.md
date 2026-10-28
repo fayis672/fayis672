@@ -10,6 +10,17 @@ I am an accomplished coder and programmer, and I enjoy using my skills to contri
 *   ✉️  You can contact me at [fayistkm36@gmail.com](mailto:fayistkm36@gmail.com)
 *   🚀  I'm currently working on [Flutter](http://sjdn)
 *   🧠  I'm learning Python, Machine Learning, Deep Learing
+
+
+### GitHub Score
+
+<a href="https://gitscore.live/fayis672">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/fayis672?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/fayis672?style=card" alt="GitScore for fayis672" />
+  </picture>
+</a>
+
 ### Skills
 <p align="left">
    <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
@@ -26,13 +37,5 @@ I am an accomplished coder and programmer, and I enjoy using my skills to contri
 
 <p align="left"> <a href="https://www.github.com/fayis672" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/f_a_y_i_z___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fayis-muhammed-tk-095999135/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@fayisdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10466004/fayis-t" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/i_fayis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### GitHub Score
-
-<a href="https://gitscore.live/fayis672">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/fayis672?style=card&theme=dark" />
-    <img src="https://gitscore.live/api/badge/fayis672?style=card" alt="GitScore for fayis672" />
-  </picture>
-</a>
 
 
