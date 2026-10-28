@@ -26,15 +26,13 @@ I am an accomplished coder and programmer, and I enjoy using my skills to contri
 
 <p align="left"> <a href="https://www.github.com/fayis672" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/f_a_y_i_z___" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fayis-muhammed-tk-095999135/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@fayisdev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/10466004/fayis-t" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/i_fayis" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+### GitHub Score
 
-[![GitScore](https://www.gitscore.live/api/badge/fayis672)](https://www.gitscore.live/fayis672)
+<a href="https://gitscore.live/fayis672">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://gitscore.live/api/badge/fayis672?style=card&theme=dark" />
+    <img src="https://gitscore.live/api/badge/fayis672?style=card" alt="GitScore for fayis672" />
+  </picture>
+</a>
 
-<b>My GitHub Stats</b>
-
-
-
-<a href="http://www.github.com/fayis672"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fayis672&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/fayis672"><img src="https://activity-graph.herokuapp.com/graph?username=fayis672&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
